@@ -11,7 +11,7 @@ object Cities {
     init {
         cities.add(City(id, "Armenia"))
         id++
-        cities.add(City(id,"Medellin"))
+        cities.add(City(id,"Pereira"))
     }
 
     fun list():ArrayList<City>{
